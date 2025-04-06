@@ -1,0 +1,48 @@
+
+.div1{
+ margin-left: 600px;
+background-color: rgb(58, 12, 12);
+width: 300px;
+height: 80px;
+padding-left: 40px;
+padding-top: 5px;
+}
+h1{
+    color: white;
+}
+
+.div2{
+    background-color: black;
+    border: 6px solid red;
+    width: 580px;
+height: 390px;
+margin-left: 475px;
+margin-top: 30px;
+padding-top: 20px;
+}
+.div3{
+width: 500px;
+height: 150px;
+background-color: aquamarine;
+margin-left: 25px;
+padding-left: 20px;
+padding-top: 20px;
+}
+
+.div4{
+    width: 500px;
+height: 150px;
+background-color: aquamarine;
+margin-left: 25px;
+margin-top: 25px;
+padding-left: 20px;
+padding-top: 20px;
+}
+.div0{
+background-color: rgb(56, 129, 105);
+height: 650px;
+padding-top: 50px;
+}
+
+
+
